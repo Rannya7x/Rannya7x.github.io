@@ -1,4 +1,4 @@
-import fetchImages from "./fetchApis";
+import fetchImages from "assets/js/fetchApis.js";
 
 const modal = document.getElementById("modal");
 const modalImg = document.getElementById("modal-img");
