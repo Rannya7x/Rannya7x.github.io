@@ -115,6 +115,7 @@ body {
 .profile-pic {
     width: 7.5rem;
     height: 7.5rem;
+    object-fit: cover;
     border-radius: var(--border-radius-circle);
     margin-right: 1.25rem;
     border: 3px solid var(--primary-color);
@@ -221,6 +222,7 @@ body {
         width: 4rem;
         height: 4rem;
         margin-right: 1rem;
+        object-fit: cover;
     }
 
     .profile-info h1 {
